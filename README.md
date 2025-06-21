@@ -1,3 +1,2 @@
-# Exercise and Sample programs from the book Go in Practice, Second Edition
-
+# Go in Practice, 2nd edition - Exercise and Sample programs
 
